@@ -2,6 +2,7 @@
   "name": "first-phaser",
   "version": "1.0.0",
   "dependencies": {
-    "express": "latest"
+    "express": "latest",
+    "phaser": "^3.20.1"
   }
 }
