@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "dependencies": {
     "express": "latest",
-    "phaser": "^3.20.1"
+    "phaser": "^3.55.2"
   }
 }
